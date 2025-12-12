@@ -35,12 +35,12 @@ Aplikasi untuk menganalisis review produk secara otomatis menggunakan AI. Aplika
 Note: Jalankan keduanya simultaneously! Jadi menggunakan 2 terminal untuk masing2.
 
 ## 🎨 Hasil
-**Tampilan**
+**Tampilan:**
+#review negative hanya untuk percobaan, maaf jika kata-katanya termasuk kasar 🙏🏿
 
 <img width="784" height="1260" alt="Screenshot 2025-12-12 170354" src="https://github.com/user-attachments/assets/e00916d0-6c43-4409-9e43-0d066e1d0420" />
 
-#review negative hanya untuk percobaan, maaf jika kata-katanya termasuk kasar 🙏🏿
 
-**Database**
+**Database:**
 
 <img width="1380" height="424" alt="Screenshot 2025-12-12 170410" src="https://github.com/user-attachments/assets/a1aed6ba-ca97-4d5e-99f5-eaa34b735b26" />
