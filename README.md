@@ -1,5 +1,5 @@
 # 🎯 Product Review Analyzer
-Aplikasi untuk menganalisis review produk secara otomatis menggunakan AI. Aplikasi ini menentukan sentimen (Positif/Negatif) dan mengekstrak poin-poin penting dari ulasan pengguna.
+Aplikasi untuk menganalisis review produk secara otomatis menggunakan AI. Aplikasi ini menentukan sentimen (Positif/Negatif/Netral) dan mengekstrak poin-poin penting dari ulasan pengguna.
 
 ## 🚀 Fitur
 * **Input Review:** Pengguna dapat memasukkan nama produk dan teks ulasan.
